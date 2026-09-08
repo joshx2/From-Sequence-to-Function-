@@ -25,7 +25,7 @@ then verify everything works:
 python scripts/smoke_test.py
 '''
 
-##Data sources
+## Data sources
 
 - CAFA5 (Kaggle, recommended starting point - already bundled sequences + GO terms):      https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/data
 - Swiss-Prot flat file (more parsing work, but includes everything current):  https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.dat.gz

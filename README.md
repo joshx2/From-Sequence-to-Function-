@@ -27,7 +27,7 @@ python scripts/smoke_test.py
 
 ## Data sources
 
-- CAFA5 (Kaggle, recommended starting point - already bundled sequences + GO terms):      https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/data
+- CAFA6 (Kaggle, recommended starting point - already bundled sequences + GO terms):  https://www.kaggle.com/competitions/cafa-6-protein-function-prediction/data?utm_source=chatgpt.com
 - Swiss-Prot flat file (more parsing work, but includes everything current):  https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.dat.gz
 - GO ontology (needed for label propagation with goatools):
   https://purl.obolibrary.org/obo/go/go-basic.obo
